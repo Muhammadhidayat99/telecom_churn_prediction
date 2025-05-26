@@ -1,5 +1,4 @@
 # telecom_churn_prediction
-Telecom_Churn_Prediction
 
 # 📞 Telecom Churn Prediction
 
